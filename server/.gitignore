@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables (Important! API keys hide karne ke liye)
+.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
